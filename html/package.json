@@ -1,0 +1,19 @@
+{
+  "name": "htmlclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-env": "^2.4.1",
+    "babel-loader": "^7.1.2",
+    "truffle-contract": "^3.0.0",
+    "web3": "^1.0.0-beta.22",
+    "webpack": "^3.6.0"
+  }
+}
